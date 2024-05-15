@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💔
 
-<!--
-**grazzy3rollo/grazzy3rollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Graziely
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem Jawscript
+
+-Utilizo esse espaço para minha organizaçao e compatilhamento dos meus projetos desenvolvidos
+
+### Você pode entra em contato comigo 📧
+
+00001084608698sp@al.educacao.gov.sp.br
