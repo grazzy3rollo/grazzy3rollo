@@ -1,8 +1,6 @@
 ### Boas vindas ao meu perfil 💔
 
-Meu Nome é Graziely
-
--Estou estudando na Alura
+-Estou estudando no [Alura] (https://www.alura.com.br)
 
 -Estou me desenvolvendo na linguagem Jawscript
 
